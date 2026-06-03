@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection-System-using-Hybrid-Methods
-Sistem deteksi dini tindakan kecurangan (*fraud*) pada transaksi kartu kredit berbasis aplikasi web interaktif menggunakan framework **Streamlit**. Proyek ini menerapkan (*hybrid methods*) yang mengombinasikan algoritma (*supervised learning*) dan (*unsupervised learning*) untuk mengatasi kendala ketimpangan kelas target secara ekstrem.
 # 💳 Credit Card Fraud Detection System using Hybrid Methods
 
 Sistem deteksi dini tindakan kecurangan (*fraud*) pada transaksi kartu kredit berbasis aplikasi web interaktif menggunakan framework **Streamlit**. Proyek ini menerapkan pendekatan hibrida (*hybrid methods*) yang mengombinasikan algoritma pembelajaran terawasi (*supervised learning*) dan tak terawasi (*unsupervised learning*) untuk mengatasi kendala ketimpangan kelas target (*imbalanced dataset*) secara ekstrem.
@@ -71,11 +69,12 @@ Pastikan perangkat Anda telah terinstal **Python 3.8+** dan package manager **pi
 cd UAS_DataMining_Haries Eko-Isnan
 
 ```
-```
+
+
 ### 3. Instalasi Library Dependensi
 
 Instal seluruh pustaka yang diperlukan untuk mendukung komputasi matriks dan antarmuka grafis:
-```
+
 
 ```bash
 pip install streamlit pandas numpy scikit-learn
@@ -99,7 +98,4 @@ Setelah berhasil dijalankan, sistem akan otomatis membuka browser lokal pada ala
 
 * Breiman, L. (2001). Random forests. *Machine Learning*, 45(1), 5-32.
 * Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation forest. Dalam *2008 Eighth IEEE International Conference on Data Mining* (hlm. 413-422). IEEE.
-* Wirth, R., & Hipp, J. (2000). CRISP-DM: Towards a standard process model for data mining. Dalam *Proceedings of the 4th International Conference on the Practical Applications of Knowledge Discovery and Data Mining* (hlm. 29-39).
-
-```
-
+* Wirth, R., & Hipp, J. (2000). CRISP-DM: Towards a standard process model for data mining. Dalam *Proceedings of the 4th International Conference on the Practical Applications of Knowledge Discovery and Data Mining* (hlm. 29-39
