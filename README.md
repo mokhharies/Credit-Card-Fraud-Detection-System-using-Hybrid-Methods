@@ -40,7 +40,7 @@ UAS_DataMining_Haries Eko-Isnan/
 │   └── creditcard.csv                 # Dataset asli perbankan Eropa (Kaggle)
 │
 ├── notebook/
-│   └── data_mining_modeling.ipynb     # Eksperimen pra-pemrosesan & pelatihan model
+│   └── analysis.ipynb     # Eksperimen pra-pemrosesan & pelatihan model
 │
 ├── saved_models/
 │   ├── rf_model.pkl                   # Berkas biner model Random Forest
@@ -51,9 +51,8 @@ UAS_DataMining_Haries Eko-Isnan/
     ├── app.py                         # Halaman utama aplikasi web Streamlit
     └── pages/
         ├── 1_Dataset_Overview.py      # Menu ringkasan statistik & matriks data
-        └── 2_Fraud_Detection.py       # Menu formulir simulasi prediksi real-time
-      
-
+        └── 2_Prediction_Analysis.py   # Menu formulir simulasi prediksi real-time
+        └── 3_Visualization.py         # Menu analisis komparatif performa deteksi fraud antara algoritma Random Forest dan Isolation Forest.
 
 ```
 ## 💻 Panduan Instalasi dan Menjalankan Aplikasi
