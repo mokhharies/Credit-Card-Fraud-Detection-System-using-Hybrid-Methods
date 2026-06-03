@@ -55,3 +55,51 @@ UAS_DataMining_Haries Eko-Isnan/
         ├── 1_Dataset_Overview.py      # Menu ringkasan statistik & matriks data
         └── 2_Fraud_Detection.py       # Menu formulir simulasi prediksi real-time
       
+
+
+```
+## 💻 Panduan Instalasi dan Menjalankan Aplikasi
+
+### 1. Prasyarat Sistem
+
+Pastikan perangkat Anda telah terinstal **Python 3.8+** dan package manager **pip**.
+```
+```
+### 2. Kloning Repositori dan Masuk ke Direktori Kerja
+
+```bash
+cd UAS_DataMining_Haries Eko-Isnan
+
+```
+```
+### 3. Instalasi Library Dependensi
+
+Instal seluruh pustaka yang diperlukan untuk mendukung komputasi matriks dan antarmuka grafis:
+```
+
+```bash
+pip install streamlit pandas numpy scikit-learn
+
+```
+
+### 4. Menjalankan Aplikasi Streamlit
+
+Jalankan server lokal Streamlit melalui Command Prompt (CMD) dari root folder utama:
+
+```bash
+streamlit run app/app.py
+
+```
+
+Setelah berhasil dijalankan, sistem akan otomatis membuka browser lokal pada alamat default: `http://localhost:8501`.
+
+---
+
+## 📚 Rujukan Ilmiah
+
+* Breiman, L. (2001). Random forests. *Machine Learning*, 45(1), 5-32.
+* Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). Isolation forest. Dalam *2008 Eighth IEEE International Conference on Data Mining* (hlm. 413-422). IEEE.
+* Wirth, R., & Hipp, J. (2000). CRISP-DM: Towards a standard process model for data mining. Dalam *Proceedings of the 4th International Conference on the Practical Applications of Knowledge Discovery and Data Mining* (hlm. 29-39).
+
+```
+
